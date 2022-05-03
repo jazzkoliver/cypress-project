@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Jessica Oliveira",
+        "cpf": "00000097952",
+        "email": "jazzkoliver@gmail.com",
+        "whatsapp": "41999999999",
+        "address": {
+            "postal_code": "80520160",
+            "street": "Rua Júlio Zaninelli",
+            "number": "420",
+            "details": "Casa 1",
+            "district": "Bom Retiro",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Jessica Oliveira",
+        "cpf": "00000097ABC",
+        "email": "jazzkoliver@gmail.com",
+        "whatsapp": "41999999999",
+        "address": {
+            "postal_code": "80520160",
+            "street": "Rua Júlio Zaninelli",
+            "number": "420",
+            "details": "Casa 1",
+            "district": "Bom Retiro",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Jessica Oliveira",
+        "cpf": "00000097952",
+        "email": "jazzkoliver2gmail.com",
+        "whatsapp": "41999999999",
+        "address": {
+            "postal_code": "80520160",
+            "street": "Rua Júlio Zaninelli",
+            "number": "420",
+            "details": "Casa 1",
+            "district": "Bom Retiro",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
